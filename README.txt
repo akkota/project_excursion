@@ -1,0 +1,1 @@
+Just a project for codecademy, wanna get used to using git :)
