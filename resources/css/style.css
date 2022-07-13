@@ -28,3 +28,17 @@ main h4{
   color: gray;
   font-weight: 300;
 }
+/* Footer CSS */
+footer h2{
+  font-size: 42px;
+  font-weight:300;
+  color: white;
+}
+footer p{
+  text-decoration: underline;
+  color: aquamarine;
+}
+#copyright{
+  text-align:right;
+  color: gray; 
+}
